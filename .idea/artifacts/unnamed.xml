@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="unnamed">
+    <output-path>$PROJECT_DIR$/../../W.U.M.P Final Project/WUMP_FINAL_PROJECT/out/artifacts/unnamed</output-path>
+    <root id="root" />
+  </artifact>
+</component>
