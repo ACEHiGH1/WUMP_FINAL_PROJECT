@@ -6,5 +6,5 @@ data into the database, meanwhile professional scientists not only can insert da
 The purpose of this project is to help professional scientists collect important information that would not be easily collected otherwise, and also help citizen scientists
 learn about scientific data collection.
 
-The demonstration of the project:
+The demonstration of the project: https://youtu.be/UApT3--_16k
 
